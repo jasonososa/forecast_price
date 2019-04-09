@@ -6,3 +6,4 @@ You are a data scientist at a large construction company. In order to submit mor
 Currently, the company is able to purchase futures contracts in a material for up to six months in advance. Thus, your manager is most interested in forecasting the price of each commodity up to six months into the future. In particular, your manager feels it would be really useful to understand when a commodity price is about to increase temporarily, in order to either buy the commodity early or wait until after the temporary increase. 
 
 #### This was a practice Insight Data Science Challenge
+#### Exercise was completed in ~4 hours
